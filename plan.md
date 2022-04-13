@@ -17,3 +17,5 @@
 - Express
 - Uuid = Gerar Id aleatórico
 - Ejs = JavaScript emubutido
+- Socket.io
+- Peerjs - wbrtc - peer to peer
